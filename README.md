@@ -8,7 +8,7 @@
 ## 有關我的 code
 為了不要誤人子弟，我只放了我覺得排名比較好的，其他爛 code 應該是沒什麼參考價值。
 
-## My Ranking for Reference :
+## Ranking for Reference :
 | Lab  | Ranking |
 | ------------- | ------------- |
 | Lab02  | 2  |
@@ -21,7 +21,7 @@
 | Lab10  | 1  |
 | FP     | 4  |
 
-(全部總共 13 次有 ranking 的作業，以上是其中 9 次，剩下大都落在十幾名左右，Lab1 最爛，來到 21，就不放 code 了，不過很想要的話可以發一個 PR)
+(全部總共 13 次有 ranking 的作業，只放了排名比較好的其中 9 次 code，剩下大都落在十幾名左右，Lab1 最爛，來到 21，就通通都不放 code 了，不過很想要的話可以發一個 PR)
 
 ## Performace / Life balance 策略
 ### （一）
