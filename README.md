@@ -5,7 +5,7 @@
 3. 但助教群真的很棒很好，感謝他們
 4. 沒事不要修
 
-## Ranking Reference:
+## My Ranking for Reference :
 | Lab  | Ranking |
 | ------------- | ------------- |
 | Lab02  | 2  |
