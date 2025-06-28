@@ -40,3 +40,8 @@
 
 ### （五）
 好累，真的好累，累到不行
+
+
+## 鳴謝
+Special shout out to XDEv11、kevin861222、hankshyu，感謝他們慷慨的分享，教了我怎麼寫 verilog，和修課的心態
+也感謝我的隊友 charlestsai、hsin，真的非常的給力
