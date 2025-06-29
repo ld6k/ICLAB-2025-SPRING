@@ -8,18 +8,18 @@
 ## 有關我的 code
 為了不要誤人子弟，我只放了我覺得排名比較好的，其他爛 code 應該是沒什麼參考價值。
 
-## Ranking for Reference :
+## Ranking for Reference
 | Lab  | Ranking |
-| ------------- | ------------- |
-| Lab02  | 2  |
-| Lab03  | 3  |
-| Lab04  | 2  |
-| Lab06  | 5  |
-| MP     | 1  |
-| Lab08  | 5  |
-| Lab09  | 2  |
-| Lab10  | 1  |
-| FP     | 4  |
+| ------------------------------------------- | -- |
+| Lab02 - MAZE (Sequential Circuit)                 | 2  |
+| Lab03 - Static Timing Analysis (Testbench and Pattern)             | 3  |
+| Lab04 - Two Head Attention (DW IP)                 | 2  |
+| Lab06 - BCH Codes Decoder (Soft IP)                  | 5  |
+| MP    - Maze Routing Accelerator (DRAM, AXI)           | 1  |
+| Lab08 - Siamese Neural Network (Low Power)             | 5  |
+| Lab09 - Autonomous Flower Shop System (DRAM, AXI, SV)      | 2  |
+| Lab10 - Verification of Lab09 (Coverage)              | 1  |
+| FP    - Single Core Central Processing Unit (CA, DRAM, AXI) | 4  |
 
 (全部總共 13 次有 ranking 的作業，只放了排名比較好的其中 9 次 code，剩下大都落在十幾名左右，Lab1 最爛，來到 21，就通通都不放 code 了，不過很想要的話可以發一個 issue)
 
