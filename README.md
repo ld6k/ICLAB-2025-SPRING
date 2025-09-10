@@ -73,6 +73,9 @@ Lab3 是一個 checkpoint，在這時候你多少可以看出自己對這個到�
 
 剩下時間處理各種雜事
 
+## Contact
+```en.cs10@nycu.edu.tw```
+
 
 ## 鳴謝
 Special shout out to XDEv11、kevin861222、hankshyu，感謝他們慷慨的分享，教了我怎麼寫 verilog 和修課的心態
